@@ -9,7 +9,7 @@
   },
   {
     "title": "Wuthering Heights ",
-    "author": "Emily Brontë",
+    "author": "Emily BrontÃ«",
     "status": "currently-reading",
     "rating": "",
     "notes": "",
@@ -22,5 +22,13 @@
     "rating": "",
     "notes": "",
     "cover": "https://covers.openlibrary.org/b/id/14543422-M.jpg"
+  },
+  {
+    "title": "Heroes",
+    "author": "Joe Abercrombie",
+    "status": "read",
+    "rating": "",
+    "notes": "",
+    "cover": "https://covers.openlibrary.org/b/id/14543400-M.jpg"
   }
 ]
