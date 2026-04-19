@@ -12,7 +12,7 @@
   },
   {
     "title": "Wuthering Heights",
-    "author": "Emily BrontÃ«",
+    "author": "Emily BrontÃÂ«",
     "status": "did-not-finish",
     "rating": "",
     "notes": "",
@@ -122,7 +122,7 @@
   },
   {
     "title": "Drapene i Baneheia: To historier. En sannhet",
-    "author": "BjÃ¸rn Olav Jahr",
+    "author": "BjÃÂ¸rn Olav Jahr",
     "status": "to-read",
     "rating": "",
     "notes": "",
@@ -841,10 +841,10 @@
     "status": "read",
     "rating": "4",
     "notes": "",
-    "series": "",
+    "series": "The First Law Trilogy",
     "seriesNumber": "",
     "dateFinished": "",
-    "cover": null
+    "cover": "https://covers.openlibrary.org/b/id/14543422-M.jpg"
   },
   {
     "title": "The Martian",
@@ -1269,7 +1269,7 @@
     "author": "Fyodor Dostoevsky",
     "status": "read",
     "rating": "4",
-    "notes": "Truly a great story of a manâs decsent into madness and a great study of human psychy, although it can be quite a drag in some places",
+    "notes": "Truly a great story of a manÃ¢ÂÂs decsent into madness and a great study of human psychy, although it can be quite a drag in some places",
     "dateFinished": "2023/02/21",
     "series": "",
     "seriesNumber": "",
@@ -1354,7 +1354,7 @@
   },
   {
     "title": "Perfume: The Story of a Murderer",
-    "author": "Patrick SÃ¼skind",
+    "author": "Patrick SÃÂ¼skind",
     "status": "to-read",
     "rating": "",
     "notes": "",
