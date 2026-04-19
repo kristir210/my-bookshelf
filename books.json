@@ -62,5 +62,16 @@
     "rating": "",
     "notes": "",
     "cover": "https://covers.openlibrary.org/b/id/10118230-M.jpg"
+  },
+  {
+    "title": "Before They Are Hanged ",
+    "author": "Joe Abercrombie",
+    "status": "read",
+    "rating": "",
+    "notes": "",
+    "series": "The First Law Trilogy",
+    "seriesNumber": "2",
+    "dateFinished": "",
+    "cover": "https://covers.openlibrary.org/b/id/14595640-M.jpg"
   }
 ]
